@@ -1,4 +1,6 @@
 # Log Viewer
+<img width="1273" height="716" alt="image" src="https://github.com/user-attachments/assets/d437b0e2-5bc6-4a6a-813a-9c60e3a3dd59" />
+
 
 Full-stack app for reading, parsing, storing, and filtering log files.
 
